@@ -24,7 +24,7 @@ class Excell(object):
         self.com.Close(SaveChanges=False)
         
 class Sheet(object):
-    
+    # one sheet
     def __init__(self, comObject, attribute='Value'):
         self.com = comObject
         self.attribute = attribute
