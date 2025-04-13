@@ -14,6 +14,11 @@
 3. 'free'
 4. als zijn bakje leeg is, leggen we 2 voertjes op de grond. Anders gaat hij met de bak lopen. 
 
+## Gezondhaid
+
+* Icon heeft momenteel last van zijn oog (slijm). Zijn oog moet regelmatig schoongemaakt worden met een doekje & kamille-thee.
+* Icon heeft gemakkelijk last van diarrhee. We geven hem enkel droge voertjes/koekjes. Van smeerkaasjes e.d. krijgt hij last.  
+
 ## Ochtend (6u - 7u)
 
 * uit de bench (Icon wil vaak geaaid worden op zijn buik, hij gaat dan liggen op zijn rug)
