@@ -1,4 +1,4 @@
-# Dagindeling Icon
+0# Dagindeling Icon
 
 ## Eten
 
@@ -35,4 +35,11 @@
 ## Avond (17u - 21u)
 
 * rond 17u is Icon vaak wakket, omdat hij weet dat er dan in de keuken gekookt wordt.
-* hij is er heel graag bij als er gekookt wordt. 
+* hij is er heel graag bij als er gekookt wordt. (hij ligt dan vaak flink op zijn mat)
+* rond 18u eten
+* terwijl wij eten, ligt hij normaal op zijn mat, totdat we gedaan hebben.
+* als het eten goed ruikt, heeft hij het moeilijk om te blijven liggen, en wil hij een stukje stelen. als dat niet lukt, raakt hij gefrustreerd en heeft dan rijgedrag. Dan zetten we hem in de bench
+* na het eten, afhankelijk van de drukte gaan we nog een toertje wandelen.
+* Tussen 20u en 21u begint hij aan zijn nacht.
+* soms kan hij op zijn kussen inslapen, soms in de bench
+* we zetten hem 's avonds ook nog eens op de uitlaatplek. 
