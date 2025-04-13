@@ -1,4 +1,4 @@
-0# Dagindeling Icon
+# Dagindeling Icon
 
 ## Eten
 
