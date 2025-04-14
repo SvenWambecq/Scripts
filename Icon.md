@@ -1,30 +1,30 @@
-# Dagindeling Icon
+# Icon
 
 ## Eten
 
-* Icon krijgt ongeveer 390g per dag
+* altijd water bij de voertjes
 * 's ochtends 180g
 * 's avonds 120g
-* beloningen 90g
+* beloningen
 
 ### Eten geven
 
-1. 'zit' vragen
-2. etensbaknopnde grond
-3. 'free'
-4. als zijn bakje leeg is, leggen we 2 voertjes op de grond. Anders gaat hij met de bak lopen. 
+*'zit' vragen - etensbak op de grond - 'free' of fluitje
+* als zijn bakje leeg is, leggen we 2 voertjes op de grond om dan etensbak weg te nemen
+* een losse drinkbak kan niet blijven staan, die duwt hij omver en loopt hij mee weg...
+* hij drinkt sowieso na het wnadelen 
 
-## Gezondhaid
+## Gezondheid
 
-* Icon heeft momenteel last van zijn oog (slijm). Zijn oog moet regelmatig schoongemaakt worden met een doekje & kamille-thee.
-* Icon heeft gemakkelijk last van diarrhee. We geven hem enkel droge voertjes/koekjes. Van smeerkaasjes e.d. krijgt hij last.  
+* Icon heeft momenteel wat meer last van zijn oog (slijm). Als hij hier veel last van heeft moet zijn oog proper gehouden worden met een doekje met kamille-thee.
+* Icon heeft gemakkelijk last van diarrhee. We geven hem enkel droge voertjes/koekjes en specifieke kauwsticks. Van smeerkaasjes e.d. krijgt hij last.  
 
-## Ochtend (6u - 7u)
+## Ochtend (6u- 7u)
 
-* uit de bench (Icon wil vaak geaaid worden op zijn buik, hij gaat dan liggen op zijn rug)
+* uit de bench en kort knuffelmomentje
 * uitlaat plaats (hij doet zowel pipi als kaka)
-* eten
-* na het eten, snuffelt hij vaak nog wat rond
+* eten 180 gr
+* na het eten, snuffelt hij vaak nog wat rond en opnieuw uitlaten
 
 ## Voormiddag (7u - 12u)
 
@@ -34,17 +34,19 @@
 
 ## Namiddag (12u - 17u)
 
+* ergens tussen 12 en 14 u: wandelen en trainen
 * slapen
-* trainen / wandelen
+* tussen 16u en 17: opnieuw wakker
 
 ## Avond (17u - 21u)
 
-* rond 17u is Icon vaak wakket, omdat hij weet dat er dan in de keuken gekookt wordt.
-* hij is er heel graag bij als er gekookt wordt. (hij ligt dan vaak flink op zijn mat)
-* rond 18u eten
+* hij is er heel graag bij als er gekookt wordt. (hij ligt dan vaak flink op zijn mat in de buurt van de keuken)
+* rond 18u krijgt hij zijn eten - 120 gr
 * terwijl wij eten, ligt hij normaal op zijn mat, totdat we gedaan hebben.
-* als het eten goed ruikt, heeft hij het moeilijk om te blijven liggen, en wil hij een stukje stelen. als dat niet lukt, raakt hij gefrustreerd en heeft dan rijgedrag. Dan zetten we hem in de bench
-* na het eten, afhankelijk van de drukte gaan we nog een toertje wandelen.
+* als het eten goed ruikt, heeft hij het moeilijk om te blijven liggen. --> we zetten hem dan een paar keer terug op de mat, soms lukt dit, soms niet en dan moet hij in de bench/ren
+* hij kan ook gefrustreerd raken/ te moe zijn/... en heeft dan rijgedrag. Dan zetten we hem in de bench, daar vindt hij rust
+* na het eten gaan we nog een klein toertje wandelen. (als hij niet te moe is)
 * Tussen 20u en 21u begint hij aan zijn nacht.
-* soms kan hij op zijn kussen inslapen, soms in de bench
-* we zetten hem 's avonds ook nog eens op de uitlaatplek. 
+* soms kan hij op zijn kussen in slaap vallen slapen, soms in de bench/ren
+* we zetten hem 's avonds voor we gaan slapen ook nog eens op de uitlaatplek.
+* de nacht slaapt hij in de open bench met gesloten ren
