@@ -12,7 +12,7 @@
 * **zit** vragen - etensbak op de grond - **free** of fluitje
 * als zijn bakje leeg is, leggen we 2 voertjes op de grond om dan etensbak weg te nemen
 * een losse drinkbak kan niet blijven staan, die duwt hij omver en loopt hij mee weg...
-* hij drinkt sowieso na het wnadelen 
+* hij drinkt sowieso na het wandelen 
 
 ## Gezondheid
 
